@@ -1,6 +1,4 @@
 
-
-
 .header{
     width: 100%;
     
@@ -21,6 +19,7 @@
 .slider {
     width: 70%;
     margin: 100px auto;
+    margin-top: 20px;
 }
 
 .slick-slide {
